@@ -1,4 +1,5 @@
 #Documento de lectura
+dirdoc = ""
 doc = ""
 
 #Diccionario de demanda
